@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👨‍💼👨‍💻 Apresentando: Marcus Vinicius 👨‍💻👨‍💼
 
-<!--
-**marcusbmartins/marcusbmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, me chamo Marcus Vinicius. Sou formado em Ciências Contábeis e graduando em Tecnólogo de Data Science. 
+Apaixonado por tecnologia e finanças, busco através de ferramentas de dados mordenizar a forma de visualizar as informações contábeis, trazendo insights fidedignos e tempestivos.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📂 Projetos no meu Github 📂
+
+• 📊 Dashboards
+
+• 📈 Análises Contábeis e Financeiras
+
+• 👨‍💻 Códigos abertos em Python e SQL
+
+• 👨‍🎓 Projetos Acadêmicos 
+
